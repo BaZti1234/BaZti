@@ -1,0 +1,4 @@
+string[] board_with_names = {"Joe","Jones","Jordan"};
+
+Console.WriteLine($"Names in board {board_with_names}");
+Console.ReadLine();
